@@ -17,6 +17,7 @@ header nav {
 content {
 	margin-left: auto;
 	display: flex;
+	font-family: "Helvetica Neue";
 }
 
 footer {
