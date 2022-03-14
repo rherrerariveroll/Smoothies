@@ -1,1 +1,25 @@
+header {
+	width: 100%;
+	display: flex;
+	padding: 2rem;
+}
+
+header nav ul {
+	display: flex;
+	list-style: none;
+	margin-left: auto;
+}
+
+header nav {
+	margin-left: auto;
+}
+
+content {
+	margin-left: auto;
+	display: flex;
+}
+
+footer {
+	display: flex;
+}
 
